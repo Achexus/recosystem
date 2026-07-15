@@ -31,3 +31,19 @@ recosystem/
 └── .gitignore        # Git untracked files (datasets and virtual environments)
 
 "In this project, I took my first steps into data science. Since I am new to this field, I got a lot of help from AI to guide me."
+
+Key Skills & Achievements Gained:
+
+Software Architecture: Designed a modular Python project, cleanly separating data processing, machine learning models, and the user interface.
+
+Data Pipeline Engineering: Automated the end-to-end process of downloading, extracting, and cleaning raw datasets using Python.
+
+Data Manipulation (Pandas): Processed complex text files, merged datasets, handled missing values, and created pivot tables for matrix operations.
+
+Machine Learning Fundamentals: Implemented an Item-Based Collaborative Filtering algorithm utilizing the Pearson Correlation Coefficient.
+
+Version Control (Git & GitHub): Managed project history, utilized branching (development to main), and executed professional pull requests.
+
+Web UI Development (Streamlit): Deployed the backend algorithmic model into a fully interactive, user-friendly web application.
+
+Technical Documentation: Authored a professional, industry-standard README.md file in English to showcase the project's architecture and usage.
